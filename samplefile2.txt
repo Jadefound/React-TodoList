@@ -27,3 +27,4 @@ vi go
 
 echo this is simple file 1
 This is Sample File 2
+this is sample lecture2
