@@ -1,0 +1,29 @@
+this is simple file 1 >> samplefile2.txt
+
+
+
+
+
+
+
+wq
+touch samplefile2.txt
+cd OneDrive/git branch
+  
+
+
+
+
+
+clear
+c
+
+
+vi 
+vi go
+:Wq
+:w
+:q
+
+echo this is simple file 1
+This is Sample File 2
